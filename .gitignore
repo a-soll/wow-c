@@ -1,0 +1,4 @@
+.vscode
+curl
+test*
+creds.c
